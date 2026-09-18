@@ -51,4 +51,5 @@ Every guarantee is placed on a rung, and never described as higher than it is.
 
 ## 🚧 Status
 
-As of January 2026, Paranoco is at best a research project.
+As of September 2026, we're making significant progress in cryptographically attesting fundemental properties
+at the OS-level of a potential publicly verifiable hosting platform.
